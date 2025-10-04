@@ -9,10 +9,15 @@ A clean, interactive **Pizza Sales** analytics dashboard that surfaces best/wors
 
 ## 📸 Preview
 
-![Pizza Sales Report Dashboard](Best-worst sellers.jpeg)
 
-> Put the screenshot at `assets/pizza-sales-dashboard.png`. You can use your exported dashboard image or any provided screenshot.
 
+<p align="center">
+  <img src="Best-worst sellers.jpeg" alt="Overview Dashboard" width="800">
+</p>
+
+<p align="center">
+  <img src="Best-worst sellers.jpeg" alt="Overview Dashboard" width="800">
+</p>
 ---
 
 ## ✨ Key Features
